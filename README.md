@@ -1,6 +1,6 @@
 # Helical_Dichroism
 Optimization and simulation code for ["Inverse Design of Chiral Structures for Giant Helical Dichroism"](https://arxiv.org/abs/2501.12825)
-![Alt text](/path/to/Figure1.jpg)
+![Alt text](/Figure1.jpg)
      
 FDTD simulations for forward, adjoint, and post-processing were implemented with python Meep 
 * Origin: https://github.com/NanoComp/meep
