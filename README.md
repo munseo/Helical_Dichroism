@@ -1,4 +1,4 @@
-# Helical_Dichroism
+# Helical_Dichroism / last update: 2024.12.20
 Optimization and simulation code for ["Inverse Design of Chiral Structures for Giant Helical Dichroism"](https://arxiv.org/abs/2501.12825)
 ===========================================================================================================================================
 ![Alt text](/Figure1.png)
